@@ -1,10 +1,8 @@
-# inv_pend
-
-## LQR State Estimated Control For Inverted Pendulum :
+# LQR State Estimated Control For Inverted Pendulum :
 
 
 ```
->> inverted_pendOnCart_statespace.m
+>> inverted_pendOnCart_statespace
 ```
 
 ## OUTPUT :
